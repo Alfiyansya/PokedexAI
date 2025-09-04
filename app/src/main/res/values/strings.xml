@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokedexAI</string>
+    <string name="title_activity_gemini_chat">GeminiChatActivity</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_favorite_pokemon">You have no favorite Pokémon yet.</string>
+    <string name="search_favorite_pokemon">Search your favorite pokemon…</string>
+    <string name="search_pokemon_name">Search pokemon name…</string>
+</resources>
