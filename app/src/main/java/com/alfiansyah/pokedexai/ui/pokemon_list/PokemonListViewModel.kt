@@ -10,8 +10,8 @@ import androidx.lifecycle.viewModelScope
 import androidx.palette.graphics.Palette
 import com.alfiansyah.pokedexai.data.models.PokemonListEntry
 import com.alfiansyah.pokedexai.domain.repository.PokemonRepository
-import com.alfiansyah.pokedexai.ui.util.Constant.PAGE_SIZE
-import com.alfiansyah.pokedexai.ui.util.Resource
+import com.alfiansyah.pokedexai.util.Constant.PAGE_SIZE
+import com.alfiansyah.pokedexai.util.Resource
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow

@@ -1,4 +1,4 @@
-package com.alfiansyah.pokedexai.ui.util
+package com.alfiansyah.pokedexai.util
 
 object Constant {
     const val BASE_URL = "https://pokeapi.co/api/v2/"

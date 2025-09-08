@@ -5,7 +5,7 @@ import androidx.lifecycle.viewModelScope
 import com.alfiansyah.pokedexai.data.source.local.FavoritePokemon
 import com.alfiansyah.pokedexai.data.source.remote.responses.Pokemon
 import com.alfiansyah.pokedexai.domain.repository.PokemonRepository
-import com.alfiansyah.pokedexai.ui.util.Resource
+import com.alfiansyah.pokedexai.util.Resource
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

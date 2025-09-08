@@ -1,4 +1,4 @@
-package com.alfiansyah.pokedexai.ui.util
+package com.alfiansyah.pokedexai.util
 
 import android.graphics.Bitmap
 import com.alfiansyah.pokedexai.BuildConfig

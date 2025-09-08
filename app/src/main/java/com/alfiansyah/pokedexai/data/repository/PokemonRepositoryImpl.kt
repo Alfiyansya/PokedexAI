@@ -9,7 +9,7 @@ import com.alfiansyah.pokedexai.data.source.remote.PokeApi
 import com.alfiansyah.pokedexai.data.source.remote.responses.Pokemon
 import com.alfiansyah.pokedexai.data.source.remote.responses.PokemonList
 import com.alfiansyah.pokedexai.domain.repository.PokemonRepository
-import com.alfiansyah.pokedexai.ui.util.Resource
+import com.alfiansyah.pokedexai.util.Resource
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import java.io.IOException

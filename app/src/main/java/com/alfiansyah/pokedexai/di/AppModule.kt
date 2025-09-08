@@ -4,7 +4,7 @@ import com.alfiansyah.pokedexai.data.repository.PokemonRepositoryImpl
 import com.alfiansyah.pokedexai.data.source.local.FavoritePokemonDao
 import com.alfiansyah.pokedexai.data.source.remote.PokeApi
 import com.alfiansyah.pokedexai.domain.repository.PokemonRepository
-import com.alfiansyah.pokedexai.ui.util.Constant.BASE_URL
+import com.alfiansyah.pokedexai.util.Constant.BASE_URL
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

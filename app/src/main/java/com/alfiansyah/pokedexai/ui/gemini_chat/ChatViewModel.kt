@@ -9,7 +9,7 @@ import android.provider.MediaStore
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.alfiansyah.pokedexai.data.models.chat.ChatItem
-import com.alfiansyah.pokedexai.ui.util.ChatData
+import com.alfiansyah.pokedexai.util.ChatData
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow

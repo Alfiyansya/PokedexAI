@@ -1,4 +1,4 @@
-package com.alfiansyah.pokedexai.ui.util
+package com.alfiansyah.pokedexai.util
 
 import androidx.compose.ui.graphics.Color
 import com.alfiansyah.pokedexai.data.source.remote.responses.Stat

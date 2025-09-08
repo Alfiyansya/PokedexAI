@@ -3,7 +3,7 @@ package com.alfiansyah.pokedexai.domain.repository
 import com.alfiansyah.pokedexai.data.source.local.FavoritePokemon
 import com.alfiansyah.pokedexai.data.source.remote.responses.Pokemon
 import com.alfiansyah.pokedexai.data.source.remote.responses.PokemonList
-import com.alfiansyah.pokedexai.ui.util.Resource
+import com.alfiansyah.pokedexai.util.Resource
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Singleton
 

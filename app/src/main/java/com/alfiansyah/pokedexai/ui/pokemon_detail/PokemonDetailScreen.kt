@@ -67,10 +67,10 @@ import com.alfiansyah.pokedexai.R
 import com.alfiansyah.pokedexai.data.source.remote.responses.Pokemon
 import com.alfiansyah.pokedexai.data.source.remote.responses.Type
 import com.alfiansyah.pokedexai.ui.components.AutoSlidingCarousel
-import com.alfiansyah.pokedexai.ui.util.Resource
-import com.alfiansyah.pokedexai.ui.util.parseStatToAbbr
-import com.alfiansyah.pokedexai.ui.util.parseStatToColor
-import com.alfiansyah.pokedexai.ui.util.parseTypeToColor
+import com.alfiansyah.pokedexai.util.Resource
+import com.alfiansyah.pokedexai.util.parseStatToAbbr
+import com.alfiansyah.pokedexai.util.parseStatToColor
+import com.alfiansyah.pokedexai.util.parseTypeToColor
 import java.util.Locale
 
 @Composable

@@ -10,6 +10,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.offset
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.safeContentPadding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
@@ -87,7 +88,8 @@ fun PokedexAIApp(
                     onClick = { navController.navigate(Screen.GeminiChat.route) },
                     modifier = Modifier
                         .offset(y = 60.dp)
-                        .size(72.dp),
+                        .size(72.dp)
+                    ,
                     shape = CircleShape,
                     containerColor = Color.Unspecified,
                     ){
@@ -107,7 +109,7 @@ fun PokedexAIApp(
         // 2. Tentukan posisi FAB di tengah. Scaffold akan secara otomatis
         //    menempatkannya di atas BottomAppBar/NavigationBar.
         floatingActionButtonPosition = FabPosition.Center,
-        modifier = modifier
+        modifier = modifier.safeContentPadding()
     ) { innerPadding ->
 
         NavHost(
