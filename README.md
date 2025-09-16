@@ -3,7 +3,7 @@
   <img src="app/src/main/ic_launcher-playstore.png" alt="PokedexAI Logo" width="150"/>
   <br>
   <h1>PokedexAI</h1>
-  Pokedex AI is a modern Android application designed to help you explore the world of Pokémon. This app not only provides comprehensive Pokémon data but also integrates an AI-powered chat feature using the Google **Gemini AI** to offer an interactive and informative experience.
+  Pokedex AI is a modern Android application designed to help you explore the world of Pokémon. This app not only provides comprehensive Pokémon data but also integrates an AI-powered chat feature using the Google Gemini AI to offer an interactive and informative experience.
   You can ask anything about the Pokémon universe—such as evolutions, stats, lore, or fun facts—and Gemini will provide insightful answers.
 </div>
 
